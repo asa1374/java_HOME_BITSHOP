@@ -12,6 +12,6 @@
 <body>
 	<h1>ID : <%= id %> 님 로그인 성공하셨습니다.</h1>
 	<a href="../index.jsp">홈으로</a>
-	<a href="mian.jsp">회원가입하기</a>
+	<a href="main.jsp">회원가입하기</a>
 </body>
 </html>
